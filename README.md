@@ -12,11 +12,17 @@ Make sure you have python3 and pip installed (or conda etc)
 usage: main.py [-h] --inputdir INPUTDIR --outputdir OUTPUTDIR --horizontal HORIZONTAL --vertical VERTICAL
 
 optional arguments:
+
   -h, --help            show this help message and exit
+
   --inputdir INPUTDIR   location of directory containing images to extract tiles from
+
   --outputdir OUTPUTDIR
+
                         location of directory where tiles will be extracted
+
   --horizontal HORIZONTAL
                         number of horizontal tiles (evenly sized)
+
   --vertical VERTICAL   number of vertical tiles (evenly sized)
 
