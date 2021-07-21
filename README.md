@@ -1,7 +1,7 @@
 Create evenly sized image tiles from a folder of images
 
 # GUI:
-There is a windows GUI installer from the releases/tags.
+There is a windows GUI installer available from https://github.com/Abe404/create_image_tiles/releases/tag/v1.0.1
 
 If you need a GUI for Mac or Linux please create an issue. They don't exist due to lack of demand.
 
