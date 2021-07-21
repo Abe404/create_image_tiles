@@ -1,5 +1,12 @@
 Create evenly sized image tiles from a folder of images
 
+# GUI:
+There is a windows GUI installer from the releases/tags.
+
+If you need a GUI for Mac or Linux please create an issue. They don't exist due to lack of demand.
+
+# Command line usage:
+
 Make sure you have python3 and pip installed (or conda etc)
 
 ## To install the dependencies (if you use pip)
