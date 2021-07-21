@@ -1,7 +1,7 @@
 Create evenly sized image tiles from a folder of images
 
 # GUI:
-There is a windows GUI installer available from https://github.com/Abe404/create_image_tiles/releases/tag/v1.0.1
+There is a windows GUI installer available from https://github.com/Abe404/create_image_tiles/releases/tag/v1.0.2
 
 If you need a GUI for Mac or Linux please create an issue. They don't exist due to lack of demand.
 
@@ -13,11 +13,11 @@ Make sure you have python3 and pip installed (or conda etc)
 > pip install -r requirements.txt
 
 ## how to run (example)
-> python main.py --inputdir ./input_images --outputdir ./output_tiles --horizontal 10 --vertical 10
+> python cmd.py --inputdir ./input_images --outputdir ./output_tiles --horizontal 10 --vertical 10
 
 ## Extra information
 > 
-> usage: main.py [-h] --inputdir INPUTDIR --outputdir OUTPUTDIR --horizontal HORIZONTAL --vertical VERTICAL
+> usage: cmd.py [-h] --inputdir INPUTDIR --outputdir OUTPUTDIR --horizontal HORIZONTAL --vertical VERTICAL
 > 
 > optional arguments:
 > 
